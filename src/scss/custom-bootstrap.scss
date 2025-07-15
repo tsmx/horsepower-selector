@@ -1,0 +1,9 @@
+@import "../../node_modules/bootstrap/scss/functions";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
+
+$primary: purple;
+$font-family-base: "Roboto Mono", monospace;
+$font-size-base: 1.1rem;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
